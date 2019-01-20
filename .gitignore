@@ -1,0 +1,9 @@
+#compressed files ignoring
+*.tgz
+*.gz
+
+#ignore logs
+*.log
+
+#ignore vagrant hidden folder
+.vagrant/
